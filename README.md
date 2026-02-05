@@ -1,5 +1,5 @@
 # ladybug_simulation
-This code solves the 3b1b's [lady bird problem](https://www.youtube.com/shorts/t3jZ2xGOvYg) by simulation, btw if your name is Grant sanderson and you are watching this then the color is not red its orange dude.
+This code solves the 3b1b's [lady bird problem](https://www.youtube.com/shorts/t3jZ2xGOvYg) by simulation, btw if your name is Grant Sanderson and you are watching this then the color is not red its orange dude.
 
 
 Ohh guys lets run the code 
